@@ -10,7 +10,7 @@
     "bignumber.js": "^9.0.0",
     "clipboard-polyfill": "^2.8.6",
     "ethers": "4.0.28",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
     "react-app-rewired": "^2.1.5",
